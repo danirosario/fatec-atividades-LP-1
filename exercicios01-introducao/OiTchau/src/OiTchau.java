@@ -1,8 +1,3 @@
-public class OiTchau 
-{
-    public static void main(String[] args) {}
-}
-
 class Oi 
 {
     public static void main(String[] args) 
