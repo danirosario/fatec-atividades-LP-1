@@ -8,8 +8,8 @@ public class Argumentos
         } 
         else
         {
-            System.out.println("O primeiro argumento é: " + args[0]);
-            System.out.println("O primeiro argumento é: " + args[1]);
+            System.out.println("O primeiro argumento e: " + args[0]);
+            System.out.println(" O segundo argumento e: " + args[1]);
         }
     }
 }

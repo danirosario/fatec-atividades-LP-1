@@ -1,41 +1,20 @@
 public class OiTchau 
 {
-    public static void main(String[] args) 
-    {
-        Oi oi = new Oi("Oi");
-        oi.exibirOi();
-
-        Tchau tchau = new Tchau("Tchau");
-        tchau.exibirTchau();
-    }
+    public static void main(String[] args) {}
 }
 
 class Oi 
 {
-    private String mensagemOi;
-
-    public Oi(String mensagemOi) 
+    public static void main(String[] args) 
     {
-        this.mensagemOi = mensagemOi;
-    }
-
-    public void exibirOi() 
-    {
-        System.out.println(mensagemOi);
+        System.out.println("Oi");
     }
 }
 
 class Tchau 
 {
-    private String mensagemTchau;
-
-    public Tchau(String mensagemTchau) 
+    public static void main(String[] args) 
     {
-        this.mensagemTchau = mensagemTchau;
-    }
-
-    public void exibirTchau() 
-    {
-        System.out.println(mensagemTchau);
+        System.out.println("Tchau");
     }
 }
