@@ -1,3 +1,5 @@
+//daniela de toledo rosario
+
 public class TrianguloComBarraN 
 {
     public static void main(String[] args)
