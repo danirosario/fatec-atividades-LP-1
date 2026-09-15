@@ -1,6 +1,5 @@
-public class GerenciamentoMercadorias {
-	
-	
+public class GerenciamentoMercadorias 
+{
     public static void main(String[] args) 
     {
         int    numeroPedido     = 102;
