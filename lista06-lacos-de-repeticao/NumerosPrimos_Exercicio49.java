@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class NumerosPrimos_Exercicio49 
+public class NumerosPrimos_Exercicio49
 {    
     public static void main(String[] args) 
     {
