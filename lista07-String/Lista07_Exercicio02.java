@@ -6,9 +6,10 @@ public class Lista07_Exercicio02
 	{
 		for (char i = 'A'; i <= 'Z'; i++)
 		{
-			System.out.print(i + " ");
+			System.out.print(i);
 		}
 	}
 }
 
-// 'A' -> 65 // 'Z' -> 90 na tabela ASCI
+// 'A' -> 65 
+// 'Z' -> 90 na tabela ASCII
